@@ -1,0 +1,9 @@
+div#pc-speed-trap {
+	background-color:#ddd;
+	margin:1px;
+	padding:5px;
+	clear:both;
+	width:100%;
+	border:1px #555 dashed;
+	font-size: 12px;
+}

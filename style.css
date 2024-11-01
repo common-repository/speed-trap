@@ -1,0 +1,83 @@
+/* Speed Trap Plugin styles. */
+
+#site-log-header, #admin-log-header {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#site-log-header {
+	margin: 0px 184px 0px 12px;
+}
+
+#site-log-settings {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0px 15px 0px;
+}
+
+#admin-log-header {
+	margin: 0px 215px 0px 20px;
+}
+
+#site-log-ta, #admin-log-ta {
+	font-family:courier new;
+}
+
+.span-label {
+	color: #666666;
+	margin-left: 2px;
+	font-style: italic;
+}
+
+div.row-border{
+	border-top:#dddddd 1px solid;
+	padding-top: 12px;
+	margin-top: 12px;
+}
+
+.donation-text {
+	color: #26779a;
+}
+
+.donation-bold {
+	font-weight: bold;
+	color:#72a1c6;
+}
+
+p-spacer {
+	margin-top:15px;
+}
+
+.img-border {
+	border:1px #ccc solid;
+}
+
+.site-span-padding {
+	padding-left:123px;
+}
+
+.admin-span-padding {
+	padding-left:164px;
+}
+
+#pages-whitelist {
+	margin-bottom: 10px;
+}
+
+.form-table td {
+	margin-top: 0px;
+	padding: 0px 10px;
+	margin-bottom: 0px;
+}
+
+#log-header {
+	margin-top: 30px;
+}
+
+.st-table tr#st-tr2 {
+	height: 95px;
+}
+
+.st-table tr#st-tr3 {
+	height: 60px;
+}
